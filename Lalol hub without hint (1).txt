@@ -10,7 +10,7 @@ local RunService = game:GetService("RunService")
 local player = game:GetService("Players").LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 
-ScreenGui.Name = "tarekscripter_Core"
+ScreenGui.Name = "Xato is the best"
 ScreenGui.Parent = playerGui
 ScreenGui.ResetOnSpawn = false
 
